@@ -1,0 +1,12 @@
+{
+    "userid": "943872361537626163",
+    "token": "MTIxMTI5MzEwODU3MDk0NzczNA.GwgrWw.RHCUwNkwBeEddyHXk_Z5zrlqf60gV_pU_ZN7Ro",
+    "host": "http://127.0.0.1",
+    "port": "8900",
+    "name1": "场景 1",
+    "name2": "场景 2",
+    "blacklist": ["Choosing a beatmap","In a lobby"],
+    "obshost": "localhost",
+    "obsport": "4455",
+    "obspasswd": "123456"
+}
