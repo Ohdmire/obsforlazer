@@ -12,7 +12,7 @@ try:
         bottoken=data['token']
         host=data['host']
         port=int(data['port'])
-        url=f'{host}:{port}/ws'
+        url=f'http://{host}:{port}/ws'
 except:
     input("请先配置用户名和token和url")
     exit()
