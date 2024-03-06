@@ -15,6 +15,8 @@ python main.py
 
 # 视频使用教程
 
+# 特别感谢
+https://github.com/MATRIX-feather/LLin
 
 
 
