@@ -10,8 +10,7 @@
 
 ```python
 pip install -r requirements.txt
-python client.py
-python server.py
+python main.py
 ```
 
 # 视频使用教程
