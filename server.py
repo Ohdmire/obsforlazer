@@ -12,7 +12,7 @@ import json
 
 # 读取配置文件
 try:
-    with open ("config.json","r",encoding="utf8") as f:
+    with open ("old_config.json","r",encoding="utf8") as f:
         data=json.load(f)
         name1=data['name1']
         name2=data['name2']
